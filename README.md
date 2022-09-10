@@ -13,4 +13,17 @@
 ![This is an image](/ss/most-frequently-used-words-in-tweets.png)
 
 
+### Wordclouds for most frequently used words in the tweets
+
+>Wordcloud 1
+>
+![This is an image](ss/wordclouds-for-most-frequently-used-words-in-the-tweets.png)
+
+
+
+Wordcloud 2
+
+![This is an image](ss/wordclouds-for-most-frequently-used-words-in-the-tweets_2.png)
+
+
 
