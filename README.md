@@ -16,14 +16,28 @@
 ### Wordclouds for most frequently used words in the tweets
 
 >Wordcloud 1
->
+
 ![This is an image](ss/wordclouds-for-most-frequently-used-words-in-the-tweets.png)
 
 
 
-Wordcloud 2
+>Wordcloud 2
 
 ![This is an image](ss/wordclouds-for-most-frequently-used-words-in-the-tweets_2.png)
+
+
+### Sentiment Analysis plot before the earnings report is published
+
+![This is an image](ss/sentiment-analysis-plot-before-earnings-report-is-published.png)
+
+### Sentiment Analysis plot after the earnings report is published
+
+![This is an image](ss/sentiment-analysis-plot-after-earnings-report-is-published.png)
+
+
+
+
+
 
 
 
